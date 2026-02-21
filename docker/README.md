@@ -54,8 +54,6 @@ Environment variables can be configured via `.env` file or directly in `docker-c
 | -------------- | ---------- | ----------------------------- |
 | `MT5_HOST`     | `0.0.0.0`  | Host to bind the MT5 server   |
 | `VNC_PASSWORD` | `password` | VNC password for noVNC access |
-| `NVC_PORT`     | `6081`     | Port for noVNC web interface  |
-| `MT5_PORT`     | `18812`    | Port for MT5 RPyC server      |
 
 ## Example .env file
 
