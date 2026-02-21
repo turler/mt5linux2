@@ -10,15 +10,13 @@ For an explanation of who should use mt5linux and why, see [Motivation and Use C
 
 2. Install [Python for Windows](https://www.python.org/downloads/windows/) on Linux using Wine.
 
-3. Find the path to `python.exe` (e.g., `/home/user/.wine/drive_c/users/user/Local Settings/Application Data/Programs/Python/Python39`).
-
-4. Install the MetaTrader5 library on your **Windows** Python:
+3. Install the MetaTrader5 library on your **Windows** Python:
 
    ```bash
    pip install MetaTrader5
    ```
 
-5. Install this package on both **Windows** and **Linux** Python:
+4. Install this package on both **Windows** and **Linux** Python:
 
    ```bash
    pip install mt5linux
